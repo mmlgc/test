@@ -1,0 +1,61 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+  height: 100%;
+  background: lavender;
+}
+ul {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+  font-size: 22px;
+}
+ul .touxiang {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  margin: 0 auto;
+  display: block;
+}
+ul .input_class,
+ul textarea {
+  width: 175px;
+  font-size: 18px;
+  line-height: 30px;
+}
+ul .li_left {
+  margin-top: 32px;
+  float: left;
+  width: 30%;
+  text-align: center;
+}
+ul .li_right {
+  margin-top: 32px;
+}
+ul .zhuce {
+  text-shadow: 1px 1px 0px lightblue;
+  color: lightgray;
+  line-height: 60px;
+  height: 60px;
+  margin-bottom: 32px;
+  font-size: 30px;
+  background: lightcoral;
+}
+ul .beizhu {
+  margin-top: 26px;
+  display: block;
+}
+ul .sub {
+  text-shadow: 1px 1px 0px lightblue;
+  color: lightgray;
+  width: 200px;
+  height: 35px;
+  font-size: 22px;
+  border-radius: 20px;
+  background: lightcoral;
+}
+ul .li_sub {
+  margin-left: 25%;
+  margin-top: 32px;
+}
